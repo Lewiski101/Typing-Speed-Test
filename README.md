@@ -15,8 +15,6 @@ TypeMaster is a feature-rich, single-page application designed to help users tes
 *   **Character Highlighting**: The application highlights correct and incorrect characters as the user types.
 *   **Paste Prevention**: Users are prevented from pasting text into the input field to ensure genuine typing practice.
 *   **Comprehensive Blog**: 15 SEO-optimized blog posts covering a wide range of topics, from typing tutorials and keyboarding basics to ergonomics and health tips.
-*   **SEO and AdSense Ready**: The project includes a `robots.txt`, `ads.txt`, a `favicon`, and meta tags for description and keywords to improve search engine visibility and prepare for ad monetization.
-*   **Legal Pages**: Standard `terms.html` and `privacy.html` pages are included.
 *   **Responsive Design**: The website is fully responsive and works seamlessly on desktops, tablets, and mobile devices.
 
 ## Technologies Used
