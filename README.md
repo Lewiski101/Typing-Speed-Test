@@ -78,6 +78,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Lewis Okoth - [@itslewiski](https://www.linkedin.com/in/itslewiski/)
+Lewiski - [@itslewiski](https://www.linkedin.com/in/itslewiski/)
 
 Project Link: [https://github.com/Lewiski101/Typing-Speed-Test](https://github.com/Lewiski101/Typing-Speed-Test)
