@@ -4,7 +4,7 @@ TypeMaster is a feature-rich, single-page application designed to help users tes
 
 ## Live Demo
 
-[[Click HERE!]](https://lewiski101.github.io/Typing-Speed-Test/)
+TO TRY IT OUT [[Click HERE!]](https://lewiski101.github.io/Typing-Speed-Test/)
 
 ## Features
 
