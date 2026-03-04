@@ -43,7 +43,7 @@ You will need a modern web browser that supports JavaScript.
     ```
 3.  Open the `index.html` file in your web browser.
 
-## Project Structure
+## The Project Structure
 
 ```
 /
