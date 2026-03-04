@@ -17,7 +17,7 @@ TO TRY IT OUT [[Click HERE!]](https://lewiski101.github.io/Typing-Speed-Test/)
 *   **Comprehensive Blog**: 15 SEO-optimized blog posts covering a wide range of topics, from typing tutorials and keyboarding basics to ergonomics and health tips.
 *   **Responsive Design**: The website is fully responsive and works seamlessly on desktops, tablets, and mobile devices.
 
-## Technologies Used
+## Technologies That were Used
 
 *   **HTML5**: For the structure and content of the web pages.
 *   **Tailwind CSS**: For a utility-first approach to styling and creating a responsive design.
@@ -43,7 +43,7 @@ You will need a modern web browser that supports JavaScript.
     ```
 3.  Open the `index.html` file in your web browser.
 
-## Project Structure
+## The Project Structure
 
 ```
 /
